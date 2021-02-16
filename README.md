@@ -22,6 +22,9 @@ The following **bonus** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-Note: When opened, the user is already logged in, hence the app opens with tweets.
 
+Loggin in, loggin out, viewing tweets, pull to refresh, load past tweets infinitely:
 <div style="width:100%;height:0;padding-bottom:170%;position:relative;"><iframe src="https://giphy.com/embed/9eiSsE77Av3GvsTtep" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/9eiSsE77Av3GvsTtep">via GIPHY</a></p>
+
+User stays logged in across restart:
+<div style="width:100%;height:0;padding-bottom:170%;position:relative;"><iframe src="https://giphy.com/embed/wu8c7MKe9OT5AzHHy7" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/wu8c7MKe9OT5AzHHy7">via GIPHY</a></p>
