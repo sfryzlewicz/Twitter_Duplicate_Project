@@ -23,4 +23,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 Note: When opened, the user is already logged in, hence the app opens with tweets.
-<img src='https://media.giphy.com/media/9eiSsE77Av3GvsTtep/giphy.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' />
+<iframe src="https://giphy.com/embed/9eiSsE77Av3GvsTtep" width="283" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/9eiSsE77Av3GvsTtep">via GIPHY</a></p>
