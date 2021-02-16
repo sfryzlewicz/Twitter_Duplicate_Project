@@ -23,4 +23,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 Note: When opened, the user is already logged in, hence the app opens with tweets.
-<img src="https://media.giphy.com/media/9eiSsE77Av3GvsTtep/giphy.gif" width=250><br>
+![](https://media.giphy.com/media/9eiSsE77Av3GvsTtep/giphy.gif)
