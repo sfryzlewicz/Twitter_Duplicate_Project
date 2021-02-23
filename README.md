@@ -47,7 +47,7 @@ The following **bonus** features are implemented:
 
 ## Video Walkthrough
 
-Loggin in, loggin out, viewing tweets, pull to refresh, load past tweets infinitely (left); user stays logged in across restart (right):
+Loggin in, loggin out, viewing tweets, pull to refresh, load past tweets infinitely (top); user stays logged in across restart (bottom):
 
 <img src='https://media.giphy.com/media/9eiSsE77Av3GvsTtep/giphy-downsized.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 <img src='https://media.giphy.com/media/wu8c7MKe9OT5AzHHy7/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
