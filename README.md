@@ -49,7 +49,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 Loggin in, loggin out, viewing tweets, pull to refresh, load past tweets infinitely-
-<img src='https://media.giphy.com/media/9eiSsE77Av3GvsTtep/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media.giphy.com/media/9eiSsE77Av3GvsTtep/giphy-downsized.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 User stays logged in across restart-
